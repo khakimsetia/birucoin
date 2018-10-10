@@ -1,0 +1,9 @@
+Building Birucoin
+
+See doc/readme-qt.rst for instructions on building Birucoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Birucoin.
+
+See doc/build-*.txt for instructions on building birucoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Birucoin.
