@@ -1,25 +1,23 @@
 Birucoin integration/staging tree
 ================================
-
-http://www.birucoin.org
+http://www.birulautan.com
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Birucoin Developers
+Copyright (c) 2011-2014 Litecoin Developers
+Copyright (c) 2018 Birucoin Developers
 
 What is Birucoin?
 ----------------
 
-Birucoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
+Birucoin is a lite version of Litecoin -> Bitcoin using scrypt as a proof-of-work algorithm.
+ - 20 seconds block targets
  - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
-
-The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
+ - 42 million total coins
+ - 4 coins reward per block
+ - 2022 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Birucoin client sofware, see http://www.birucoin.org.
+the Birucoin client sofware, see http://www.birulautan.com.
 
 License
 -------
